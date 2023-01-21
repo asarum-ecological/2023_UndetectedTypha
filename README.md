@@ -18,4 +18,4 @@ Should you have any inquiries, please feel free to reach out me.
 
 Email: daniel.stewart@asarum.org
 
-!(https://github.com/dstewart86/FRE_CreatedTidalMarshes_2022/blob/main/IMG_4764.jpg)
+![Image of marsh](https://github.com/dstewart86/FRE_CreatedTidalMarshes_2022/blob/main/IMG_4764.jpg)
