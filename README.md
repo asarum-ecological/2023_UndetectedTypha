@@ -18,4 +18,4 @@ Should you have any inquiries, please feel free to reach out me.
 
 Email: daniel.stewart@asarum.org
 
-!(https://github.com/asarum-ecological/2023_UndetectedTypha/blob/2c4ae8dd3bd4f9ebd2cad549584afa15e0c50b9f/README_PIC.jpg))
+![Image of marsh]([https://github.com/dstewart86/FRE_CreatedTidalMarshes_2022/blob/main/IMG_4764.jpg](https://github.com/asarum-ecological/2023_UndetectedTypha/blob/2c4ae8dd3bd4f9ebd2cad549584afa15e0c50b9f/README_PIC.jpg))
