@@ -17,3 +17,5 @@ Any additional data may be available upon request. Please note that all of the i
 Should you have any inquiries, please feel free to reach out me.
 
 Email: daniel.stewart@asarum.org
+
+![Image of marsh](https://github.com/asarum-ecological/2023_UndetectedTypha/README_PIC.jpg)
