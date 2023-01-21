@@ -1,4 +1,4 @@
-# Repository for Stewart, Hood and Martin (2020)
+# Repository for Stewart, Hood and Martin (2023)
 
 This repo contains all available data used in our analysis, and all outputs. 
 
@@ -16,4 +16,4 @@ Any additional data may be available upon request. Please note that all of the i
 
 Should you have any inquiries, please feel free to reach out me.
 
-Email: daniel.stewart@ubc.ca
+Email: daniel.stewart@asarum.org
