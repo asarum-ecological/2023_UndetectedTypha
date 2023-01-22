@@ -4,7 +4,7 @@ Welcome to the repository for our journal article entitled "Widespread but Undet
 
 You will find the following contents in this repository:
 
-### Publication Files
+### [Publication Files](https://github.com/asarum-ecological/2023_UndetectedTypha/tree/main/Publication%20Files)
   - a .pdf of the published manuscript (this will appear 12 months after publication)
   - a .pdf of the digital supplemental materials 
 
