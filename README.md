@@ -1,8 +1,12 @@
 # Repository for Stewart, Hood and Martin (2023)
 
-This repo contains all available data used in our analysis, and all outputs. 
+Welcome to the repository for our publication entitled "Widespread but Undetected: The Cryptic Invasion of Non-Native Cattail in a Pacific Northwest Estuary", which was published in the journal Estuaries and Coasts in 2023. 
 
-You will find the following contents in various folders:
+You will find the following contents in this repository:
+
+## Publication Files
+  - a .pdf of the published manuscript (this will appear 12 months after publication)
+  - a .pdf of the digital supplemental materials 
 
 ## Spectral Analysis
   - outputs of spectral analysis at various resolutions for both imagery datasets
