@@ -4,15 +4,15 @@ Welcome to the repository for our journal article entitled "Widespread but Undet
 
 You will find the following contents in this repository:
 
-## Publication Files
+### Publication Files
   - a .pdf of the published manuscript (this will appear 12 months after publication)
   - a .pdf of the digital supplemental materials 
 
-## Spectral Analysis
+### Spectral Analysis
   - outputs of spectral analysis at various resolutions for both imagery datasets
   - Polygon shapefile of our training datasets
   
-## Species Distribution Model
+### Species Distribution Model
   - channel proximity environmental layer (for suitability model)
   - proximity to nearest patch and cattail density layers (for susceptibility model)
   
