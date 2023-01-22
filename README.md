@@ -1,4 +1,4 @@
-# Repository for Stewart, Hood and Martin (2023)
+## Repository for Stewart, Hood and Martin (2023)
 
 This repo contains all available data used in our analysis, and all outputs. 
 
