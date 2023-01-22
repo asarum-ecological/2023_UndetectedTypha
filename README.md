@@ -1,14 +1,14 @@
-## Repository for Stewart, Hood and Martin (2023)
+# Repository for Stewart, Hood and Martin (2023)
 
 This repo contains all available data used in our analysis, and all outputs. 
 
 You will find the following contents in various folders:
 
-# Spectral Analysis
+## Spectral Analysis
   - outputs of spectral analysis at various resolutions for both imagery datasets
   - Polygon shapefile of our training datasets
   
-# Species Distribution Model
+## Species Distribution Model
   - channel proximity environmental layer (for suitability model)
   - proximity to nearest patch and cattail density layers (for susceptibility model)
   
