@@ -5,14 +5,14 @@ Welcome to the repository for our journal article entitled "Widespread but Undet
 You will find the following contents in this repository:
 
 ### [Publication Files](https://github.com/asarum-ecological/2023_UndetectedTypha/tree/main/Publication%20Files)
-  - a .pdf of the published manuscript (this will appear 12 months after publication)
+  - a .pdf of the accepted manuscript
   - a .pdf of the digital supplemental materials 
 
-### Spectral Analysis
+### [Spectral Analysis](https://github.com/asarum-ecological/2023_UndetectedTypha/tree/main/Spectral%20Analysis%20)
   - outputs of spectral analysis at various resolutions for both imagery datasets
   - Polygon shapefile of our training datasets
   
-### Species Distribution Model
+### [Species Distribution Model](https://github.com/asarum-ecological/2023_UndetectedTypha/tree/main/Species%20Distribution%20Model)
   - channel proximity environmental layer (for suitability model)
   - proximity to nearest patch and cattail density layers (for susceptibility model)
 
