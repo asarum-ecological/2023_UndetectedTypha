@@ -21,6 +21,4 @@ Any additional data may be available upon request. Please note that all of the i
 
 Should you have any inquiries, please feel free to [email](mailto:daniel.stewart@asarum.org) me.
 
-Email: daniel.stewart@asarum.org
-
 ![Cattail](https://github.com/asarum-ecological/2023_UndetectedTypha/blob/dfb56f3a7f43b333ca2b0fcd1f4dd50c7d2e5069/README_PIC.jpg)
