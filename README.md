@@ -19,7 +19,7 @@ You will find the following contents in this repository:
 
 Any additional data may be available upon request. Please note that all of the imagery datasets used in our spectral analysis were not publicly available and generously leant to us from the BC Government and Vancouver Fraser Port Authority. Similarly, the DEM and % sand layers from our SDM were not publicly available. 
 
-Should you have any inquiries, please feel free to reach out me.
+Should you have any inquiries, please feel free to [email](mailto:daniel.stewart@asarum.org) me.
 
 Email: daniel.stewart@asarum.org
 
