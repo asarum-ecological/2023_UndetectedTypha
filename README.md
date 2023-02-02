@@ -15,7 +15,8 @@ You will find the following contents in this repository:
   - outputs of spectral analysis, with cattail distributions summarized in polygon vector
   
 ### [Species Distribution Model](https://github.com/asarum-ecological/2023_UndetectedTypha/tree/main/Species%20Distribution%20Model)
-  - channel proximity & elevation environmental rasters
+  - channel proximity & elevation environmental rasters (for suitability and susceptibility models)
+  - cattail density and proximity rasters (for susceptibility models)
   - suitability and susceptibility output rasters
   - .jpeg maps of key conservation areas of the estuary
 
