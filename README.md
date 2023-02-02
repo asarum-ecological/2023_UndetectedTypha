@@ -1,5 +1,7 @@
 # Repository for Stewart, Hood and Martin (2023)
 
+![Cattail](https://github.com/asarum-ecological/2023_UndetectedTypha/blob/dfb56f3a7f43b333ca2b0fcd1f4dd50c7d2e5069/README_PIC.jpg)
+
 Welcome to the repository for our journal article entitled "Widespread but Undetected: The Cryptic Invasion of Non-Native Cattail (<i>Typha</i>) in a Pacific Northwest Estuary", which was published in <i>Estuaries and Coasts</i> in 2023. 
 
 You will find the following contents in this repository:
@@ -21,5 +23,3 @@ Any additional data may be available upon request. Please note that all of the i
 The extent of non-native cattail in the estuary continues to be investigated. For an up to date map of field-verified cattail please visit this [link](https://www.google.com/maps/d/u/0/edit?mid=1Gxm6n921sl6ph-dF6LTEKDhTrqaUaCoK&ll=49.137229809022216%2C-123.15205739999999&z=11)
 
 Should you have any inquiries, please feel free to [email](mailto:daniel.stewart@asarum.org) me.
-
-![Cattail](https://github.com/asarum-ecological/2023_UndetectedTypha/blob/dfb56f3a7f43b333ca2b0fcd1f4dd50c7d2e5069/README_PIC.jpg)
