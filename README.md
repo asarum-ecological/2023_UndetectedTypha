@@ -20,6 +20,6 @@ You will find the following contents in this repository:
 
 Any additional data may be available upon request. Please note that all of the imagery datasets used in our spectral analysis were not publicly available and generously leant to us from the BC Government and Vancouver Fraser Port Authority. Similarly, the % sand layer from our SDM were not publicly available. 
 
-The extent of non-native cattail in the estuary continues to be investigated. For an up to date map of field-verified cattail please visit this [link](https://www.google.com/maps/d/u/0/edit?mid=1Gxm6n921sl6ph-dF6LTEKDhTrqaUaCoK&ll=49.137229809022216%2C-123.15205739999999&z=11)
+The extent of non-native cattail in the estuary continues to be investigated. For an up to date map of field-verified cattail please visit this [link](https://www.google.com/maps/d/u/0/edit?mid=1Gxm6n921sl6ph-dF6LTEKDhTrqaUaCoK&ll=49.137229809022216%2C-123.15205739999999&z=11).
 
 Should you have any inquiries, please feel free to [email](mailto:daniel.stewart@asarum.org) me.
