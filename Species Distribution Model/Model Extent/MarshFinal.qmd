@@ -1,0 +1,62 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.28.2-Firenze">
+  <identifier>MarshFinal3</identifier>
+  <parentidentifier></parentidentifier>
+  <language>ENG</language>
+  <type>dataset</type>
+  <title>2011 Generalized Land Use</title>
+  <abstract>The land use classifications are described as follows:
+Agriculture (A500): includes actively farmed lands that are cultivated or contain agricultural production facilities such as greenhouses and barns plus inactive and vacant lands in the provincial Agricultural Land Reserve (ALR) that do not have a recreational, industrial, commercial, institutional, and transportation, communication and utility land use. Also includes several properties that are cultivated or contain agricultural production facilities with a location outside the ALR. Many of these latter agriculture properties are anticipated to be redeveloped for urban use in the near future.
+Airport/Airstrip (S650): includes lands used for Vancouver International Airport, local airports and rural air strips. 
+Cemetery (S420): includes all lands set aside for cemeteries. 
+Commercial (S200): includes retail, office and personal service, including hotels and motels.
+Harvesting and Research (F100): includes forested lands actively harvested or devoted to research uses.
+Institutional (S400): includes school, universities and community colleges (excluding their playing fields), hospitals, correctional facilities, government buildings, and churches. 
+Industrial (S300): includes processing, manufacturing, warehousing and wholesaling activities. Additional industrial land activities are captured in the Ports and Airport/Airstrip land use categories.
+Industrial – Extractive (M300): includes uses such as peat extraction, gravel pits, temporary gravel storage and rock quarries. 
+Residential - Mobile Home Park (S100):includes single detached dwellings located outside the ALR but within Metro Vancouver’s Regional Growth Strategy designated “Rural Area’. 
+Residential – Rural (S120):: includes detached and duplexes dwellings within the Urban Containment Boundary that were not connected and serviced by sewers and located outside Metro Vancouver’s ‘existing urban area’ in 2011 plus residential dwellings located outside the ALR but within Metro Vancouver’s Regional Growth Strategy designated “Rural Area’. 
+Residential - Single Detached and Duplex (S110): includes detached and duplexes dwellings and mobile home parks that are serviced by sewers and located within Metro Vancouver’s Regional Growth Strategy designated “Urban Containment Boundary’.
+Residential – Townhouse (S131): includes row-housing and stacked attached structure types. 
+Residential - Low-rise Apartment (S130): includes apartment structures less than 5 stories. Additional low-rise apartments are captured in the Mixed Residential Commercial - Low-rise Apartment land use category.
+Residential - High-rise Apartment (S135): includes apartments with 5 stories or more. Additional high-rise apartments are captured in the Mixed Residential Commercial - High-rise Apartment land use category.
+Mixed Residential Commercial - Low-rise Apartment (S230): includes lands permitting up to several floors of commercial use and residential housing when combined is less than five storeys. 
+Mixed Residential Commercial - High-rise Apartment (S235): includes lands permitting up to several floors of commercial use and residential housing when combined is five or more storeys. 
+Residential - Institutional and Non-Market Housing (S410): includes group homes, nursing homes, senior care facilities and other institutional and non-market housing.
+Port Metro Vancouver (S600): includes all land based activities occurring on the Port of Metro Vancouver lands. 
+Rail, Rapid Transit, Other Transportation, Utility and Communications (S700):includes uses such as ferry terminals, rail yards, rail right-of-way lines, electrical sub-stations, liquid waste treatment facilities, landfill sites, public works yards plus rapid transit stations and right-of-way corridors. 
+Recreation, Open Space and Protected Natural Areas (R100): includes local, regional and provincial parks (both inside and outside the provincial Agricultural Land Reserve), ecological reserves and wildlife management areas, school playing fields, camping parks, commercial RV parks, some undeveloped street allowance/road right-of-way, neighbourhood walk paths (not sidewalks) and recreational facilities such as golf courses, ski areas, exhibition grounds, club facilities and community centres. 
+Road Right-of-Way (S500): includes all developed roads local, regional and provincial
+Protected Watershed (W400):includes Metro Vancouver watersheds.
+Undeveloped and Unclassified (U100):includes lands outside the provincial Agricultural Land Reserve with no visible development, vacant urban land, and forested or vegetated areas not identified as recreation, open space and protected natural areas or agriculture.
+Water (R200): includes major water bodies consisting of inlets, large lakes and rivers and other significant water bodies that are excluded from the regional land base. 
+
+
+Metro Vancouver’s 2011 Generalized Land Use has no official status. It is neither a zoning nor an Official Community Plan map but rather a serves as a ‘regional reference map’ that depicts land activities existing in fall 2011. The map is intended to provide a consistent interpretation of on-the-ground land development activity across the Metro Vancouver’s member municipalities, electoral area and First Nation. Based on municipal staff guidance, aerial photograph interpretation plus other land data information including the British Columbia Assessment Authority, land use activities were categorized into one of the twenty-four classifications, defined in the Description section. Metro Vancouver’s 2011 Generalized Land Use map was compiled using a consistent interpretation of all available information. Every effort was made to depict land use activities accurately and consistently across all of the region’s municipalities. Land use classifications were assigned at the municipal cadastre geography wherein each cadastre lot was assigned one single land use classification. Exceptions to this rule occurred in instances where cadastre lots clearly have more than one discrete land use activity which did not fit into one single classification thus requiring the cadastre lot to be split to accommodate multiple land use polygons (e.g. school property – where buildings were classified as ‘institutional’ and playing fields as ‘recreational’). </abstract>
+  <keywords vocabulary="Search keys">
+    <keyword>Landuse 2011</keyword>
+    <keyword>Land</keyword>
+  </keywords>
+  <links/>
+  <fees></fees>
+  <constraints type="Limitations of use">Metro Vancouver’s 2011 Generalized Land Use has no official status and is publically shared for illustrative and regional reference purposes on an “as is” basis. Metro Vancouver makes no claims, warranties, representations or conditions with respect to its accuracy including any warranties, representations or conditions that the data are accurate, current, complete, free from error or defect, or fit for any particular use or purpose. The final 2011 Generalized Land Use map has neither been reviewed nor endorsed by its member municipalities.
+</constraints>
+  <rights>Metro Vancouver staff Bob Denboer, Jason Hrubizna, Rob Ostwald</rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt>PROJCRS["NAD83 / UTM zone 10N",BASEGEOGCRS["NAD83",DATUM["North American Datum 1983",ELLIPSOID["GRS 1980",6378137,298.257222101,LENGTHUNIT["metre",1]]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],ID["EPSG",4269]],CONVERSION["UTM zone 10N",METHOD["Transverse Mercator",ID["EPSG",9807]],PARAMETER["Latitude of natural origin",0,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8801]],PARAMETER["Longitude of natural origin",-123,ANGLEUNIT["degree",0.0174532925199433],ID["EPSG",8802]],PARAMETER["Scale factor at natural origin",0.9996,SCALEUNIT["unity",1],ID["EPSG",8805]],PARAMETER["False easting",500000,LENGTHUNIT["metre",1],ID["EPSG",8806]],PARAMETER["False northing",0,LENGTHUNIT["metre",1],ID["EPSG",8807]]],CS[Cartesian,2],AXIS["(E)",east,ORDER[1],LENGTHUNIT["metre",1]],AXIS["(N)",north,ORDER[2],LENGTHUNIT["metre",1]],USAGE[SCOPE["Engineering survey, topographic mapping."],AREA["North America - between 126°W and 120°W - onshore and offshore. Canada - British Columbia; Northwest Territories; Yukon. United States (USA) - California; Oregon; Washington."],BBOX[30.54,-126,81.8,-119.99]],ID["EPSG",26910]]</wkt>
+      <proj4>+proj=utm +zone=10 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs</proj4>
+      <srsid>2287</srsid>
+      <srid>26910</srid>
+      <authid>EPSG:26910</authid>
+      <description>NAD83 / UTM zone 10N</description>
+      <projectionacronym>utm</projectionacronym>
+      <ellipsoidacronym>EPSG:7019</ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial miny="48.99990199999999874" crs="EPSG:26910" maxy="49.57024200000000036" maxz="0" dimensions="2" minx="-123.71836999999999307" maxx="-122.40359599999999318" minz="0"/>
+  </extent>
+</qgis>
