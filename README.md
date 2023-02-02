@@ -11,11 +11,11 @@ You will find the following contents in this repository:
   - a .pdf of the digital supplemental materials 
 
 ### [Spectral Analysis](https://github.com/asarum-ecological/2023_UndetectedTypha/tree/main/Spectral%20Analysis%20)
-  - outputs of spectral analysis at various resolutions for both imagery datasets
+  - outputs of spectral analysis, visualised in a cattail density raster
   
 ### [Species Distribution Model](https://github.com/asarum-ecological/2023_UndetectedTypha/tree/main/Species%20Distribution%20Model)
-  - channel proximity & elevation environmental rasters (for suitability model)
-  -suitability and susceptibility output rasters
+  - channel proximity & elevation environmental rasters
+  - suitability and susceptibility output rasters
   - .jpeg maps of key conservation areas of the estuary
 
 Any additional data may be available upon request. Please note that all of the imagery datasets used in our spectral analysis were not publicly available and generously leant to us from the BC Government and Vancouver Fraser Port Authority. Similarly, the % sand layer from our SDM were not publicly available. 
